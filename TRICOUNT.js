@@ -1,5 +1,5 @@
 //	yousfi.saad@gmail.com
-//  www.spoj.com/problems/TRICOUNT/
+//	www.spoj.com/problems/TRICOUNT/
 
 var res = [];
 res[0] = 1;
