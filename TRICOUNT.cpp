@@ -1,11 +1,11 @@
 //	yousfi.saad@gmail.com
-//  www.spoj.com/problems/TRICOUNT/
+//	www.spoj.com/problems/TRICOUNT/
 
 #include<iostream>
 long long res[1000001];
 long long ht
-		, ma
-		, i;
+	, ma
+	, i;
 using namespace std;
 int main(){
 	res[0] = 1;
